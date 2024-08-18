@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lunatics01
-- 👀 I’m interested in HTML, CSS, WEBSITE FRONTEND, WEBSITE DEGINING
+- 👀 I’m interested in JAVA, HTML, CSS, WEBSITE FRONTEND
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on WEBSITE DEVELOPMENT
 - 📫 How to reach me Email- ak22696811@gmailo.com
